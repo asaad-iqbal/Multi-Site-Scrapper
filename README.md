@@ -1,12 +1,16 @@
 # MULTI SITE SCRAPPER
 
 requirements:
-install Python version >= 3.6 (3.9.5 version preferrable, I used)
-selenium ChromeDriver version used 96.0.4664.45 (already places in selenium folder)
+install Python version >= 3.6 (3.9.5 version preferrable)
+<br>
+selenium ChromeDriver version used 96.0.4664.45 (prefferable >= 96)
+<br>
 optional: SQLLite browser for accessing sqllite db file in database folder
+<br>
 Note: python already comes with sqllite3 support and library does not need to be installed
-
+<br>
 Install all libraries using this command (after opening cmd/terminal in project directory):
+<br>
 pip install -r requirements.txt
 
 How to run:
