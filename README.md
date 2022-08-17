@@ -1,4 +1,4 @@
-#MULTI SITE SCRAPPER
+# MULTI SITE SCRAPPER
 
 requirements:
 install Python version >= 3.6 (3.9.5 version preferrable, I used)
